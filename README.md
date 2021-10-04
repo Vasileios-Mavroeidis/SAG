@@ -1,4 +1,4 @@
-## Semantic ATT&CK Groups (SAG)
+# Semantic ATT&CK Groups (SAG)
 
 ## Table of Contents
 
